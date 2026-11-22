@@ -3,8 +3,8 @@
  "version": 1,
  "body": {
   "id": "opcg",
-  "published": "2026-11-22T02:06:11.009Z",
-  "commit": "a607e48294c9bb56ca24e47538e8ce349db257a9",
+  "published": "2026-11-22T10:35:40.117Z",
+  "commit": "1747869f258dda01a4eddb6cb6f56b5d09438a86",
   "packs": [
    {
     "pack": "core",
@@ -51,6 +51,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "EB01",
+    "version": 2,
+    "file": "EB01/2.pack.json",
+    "size": 39648,
+    "sha256": "fdd955fb9cd94e934163314df8357b2b4eba79f49ff71d4efcab28ab1aa4721d",
+    "part": "54baab8db5a41967a43678f6bf3a5de90c5c20410c5b84deff33b052707c477b",
+    "cards": 61,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "EB02",
     "version": 1,
     "file": "EB02/1.pack.json",
@@ -60,6 +71,17 @@
     "cards": 61,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "EB02",
+    "version": 2,
+    "file": "EB02/2.pack.json",
+    "size": 43934,
+    "sha256": "2dc29b2a5d02620612abb603864f4984fb25553e9241e2c04a96cd2c195c823c",
+    "part": "d84205fa88ed39d29e3dd6f627c46180a158a5cb199ecf638509632008608750",
+    "cards": 61,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "EB03",
@@ -95,6 +117,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "EB05",
+    "version": 2,
+    "file": "EB05/2.pack.json",
+    "size": 45398,
+    "sha256": "b962a09866fd513eb780c5b55d44c503e5dab3253547561281fe30874ab1021b",
+    "part": "726cc64cdffcc58df7bd4764578425a5c8438bdb8875deffb127b66e66823fb6",
+    "cards": 61,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "OP01",
     "version": 1,
     "file": "OP01/1.pack.json",
@@ -128,6 +161,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "OP03",
+    "version": 2,
+    "file": "OP03/2.pack.json",
+    "size": 76073,
+    "sha256": "031d94a91f6517a7736f38a5974b78f0f5101d4a9b76fc8d8776507e45a8bd62",
+    "part": "3314416184e454fb8f274eb553e9d332631a916e0ea75315faff1ebb03815f74",
+    "cards": 123,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "OP04",
     "version": 1,
     "file": "OP04/1.pack.json",
@@ -137,6 +181,17 @@
     "cards": 119,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "OP04",
+    "version": 2,
+    "file": "OP04/2.pack.json",
+    "size": 79702,
+    "sha256": "a7371cb0c1828e7829cd28b6a17680bd95b7a792b4d8ec50beb4b2553fc35775",
+    "part": "e1418aa50ea44eb0d83365fc3e004f79aaea6f30faa1f68172ef4eee170daba1",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "OP05",
@@ -150,6 +205,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "OP05",
+    "version": 2,
+    "file": "OP05/2.pack.json",
+    "size": 79401,
+    "sha256": "3704dc148fcaf423fbe80179f31714cba892768c11fec006f655ab07d55bc453",
+    "part": "5a00edf79d624bb9f3680f404738876e8307c93e6930bdf5bf987f07c3c50642",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "OP06",
     "version": 1,
     "file": "OP06/1.pack.json",
@@ -159,6 +225,17 @@
     "cards": 119,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "OP06",
+    "version": 2,
+    "file": "OP06/2.pack.json",
+    "size": 82838,
+    "sha256": "27a3c6629d669d1f520f20e72114829264b9398e598f230bd482d670e89a2714",
+    "part": "ef31a2a3219dde973dc3b1a2aa89a99ea7d637253016195315a3bd664efb64ab",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "OP07",
@@ -172,6 +249,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "OP07",
+    "version": 2,
+    "file": "OP07/2.pack.json",
+    "size": 82262,
+    "sha256": "7f41f9b9e4598611014a92d01729c9ec7f74435638dd665d5b92f06d39fa7175",
+    "part": "2ec1a029fad434af69ffb449d1cc16d3260f2e3317f31d0b491c646b1ceb034d",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "OP08",
     "version": 1,
     "file": "OP08/1.pack.json",
@@ -183,6 +271,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "OP08",
+    "version": 2,
+    "file": "OP08/2.pack.json",
+    "size": 81830,
+    "sha256": "0e9c093ebbf821deea774571dfa0a10539227986bfb3b55a2f9f3c69ffb50429",
+    "part": "63f7ca8174ac03ebbf96a02ecd598bbeb68d87482128f4007dd60090589396f2",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "OP09",
     "version": 1,
     "file": "OP09/1.pack.json",
@@ -192,6 +291,17 @@
     "cards": 119,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "OP09",
+    "version": 2,
+    "file": "OP09/2.pack.json",
+    "size": 79004,
+    "sha256": "c83c28c8d5316b7e83c411091b04174bd8bc6e3fd73db17967d6b9e9c413eade",
+    "part": "5591e2e900195d369c2e2555e7ebacf901c6cce4b5884ab85046a8efc73976fa",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "OP10",
@@ -227,6 +337,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "OP12",
+    "version": 2,
+    "file": "OP12/2.pack.json",
+    "size": 81236,
+    "sha256": "8ed7ee21b992be6947f15e0227ca8a7dace0a5a8f642d925e7accb31c85656e8",
+    "part": "787a7099d7c38fd5ba9eba9afaffe069255a32be91a47c4ddb0fd694ade48e01",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "OP13",
     "version": 1,
     "file": "OP13/1.pack.json",
@@ -247,6 +368,17 @@
     "cards": 120,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "OP14",
+    "version": 2,
+    "file": "OP14/2.pack.json",
+    "size": 91649,
+    "sha256": "44aadcf2897a09cc4e7f82d03f6446951453f3c9c45d59dfbb460430601f8bc1",
+    "part": "4e5be5f14611fc8cadbc7111f6364647a3eb11d5dc7cc502af8b2568ef79fdb8",
+    "cards": 120,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "OP15",
@@ -271,6 +403,17 @@
     "app": "0.1.0-alpha.21"
    },
    {
+    "pack": "OP15",
+    "version": 3,
+    "file": "OP15/3.pack.json",
+    "size": 92468,
+    "sha256": "a721ccc37ee1c23b7bcecc12b03d620f00aa0cb6bb767e55047fbd19b486811a",
+    "part": "1fbfa9b03275e9e1319a3eaac5bfb5b7f9685b08a1ba95b32b5ffe95c936c30a",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "OP16",
     "version": 1,
     "file": "OP16/1.pack.json",
@@ -291,6 +434,17 @@
     "cards": 119,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "OP17",
+    "version": 2,
+    "file": "OP17/2.pack.json",
+    "size": 91368,
+    "sha256": "61e63151bf3a4080f8fee3d42119a6f41faaff3a01e011c08029b27b5a169af6",
+    "part": "8252b78f6c3241a746dae3875471a97b83f8bb4451f9d76c056b547e71628a14",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "OP18",
@@ -314,6 +468,17 @@
     "cards": 119,
     "built": "2026-11-18T00:17:47.571Z",
     "app": "0.1.0-alpha.20"
+   },
+   {
+    "pack": "OP18",
+    "version": 3,
+    "file": "OP18/3.pack.json",
+    "size": 86949,
+    "sha256": "7e47888bbac7ca4504ebd5b62b842fa09f0a3bf8be34fe473949eeb93b8c6a99",
+    "part": "b39b7c0e7cecf66c352e026c8007a22f7df669243742369faf2f3a648afb12b8",
+    "cards": 119,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "P",
@@ -437,6 +602,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "ST07",
+    "version": 2,
+    "file": "ST07/2.pack.json",
+    "size": 11424,
+    "sha256": "9cfa42a74bdb59d727ef6aaced7127f0900c32ebc90e5863e414227b0da33d64",
+    "part": "2002bf59b56fc8412375a210d43a4b20b1793328466d1fcf16816bf9b589caa4",
+    "cards": 17,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "ST08",
     "version": 1,
     "file": "ST08/1.pack.json",
@@ -481,6 +657,17 @@
     "app": "0.1.0-alpha.14"
    },
    {
+    "pack": "ST11",
+    "version": 2,
+    "file": "ST11/2.pack.json",
+    "size": 4143,
+    "sha256": "28ab7e0c8d255142a4147297f5263b8477afb10e98b76c58bc3ab45dbba32ef0",
+    "part": "049a406a434212cca583b4c1789a51d4812196020db3bd0df4e08fe6481c1f21",
+    "cards": 5,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
+   },
+   {
     "pack": "ST12",
     "version": 1,
     "file": "ST12/1.pack.json",
@@ -490,6 +677,17 @@
     "cards": 17,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "ST12",
+    "version": 2,
+    "file": "ST12/2.pack.json",
+    "size": 10998,
+    "sha256": "4a2bd0a3c4cdd780b2be9085c873498c4c1373dc86e55de7a436dfaca5a43067",
+    "part": "c5853051df7a76645e863d817295861d21a50d0e6b83bd9db6d5f4903cbd1264",
+    "cards": 17,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "ST13",
@@ -578,6 +776,17 @@
     "cards": 5,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "ST20",
+    "version": 2,
+    "file": "ST20/2.pack.json",
+    "size": 4357,
+    "sha256": "fadde300a865993eb2a0b9e28a2122c50c3c9f07089e0f8130ec7ecca62adebc",
+    "part": "b0b82348e4e86914d2de7101d136990a6abbbc5037f9ad8b9de9a6c71703521d",
+    "cards": 5,
+    "built": "2026-11-22T10:35:40.117Z",
+    "app": "0.1.0-alpha.22"
    },
    {
     "pack": "ST21",
@@ -760,6 +969,6 @@
  "signature": {
   "alg": "Ed25519",
   "key": "cd0FErtBr_A_7EySCTwDrH7PCz6aM4GZHzZ9m-qjjH8",
-  "sig": "8pJsGOfE7n-yZH7hd4zd4WU8wFZA2B5A1iIwHErZxJUOm3-6bLt5H1psFa1UQksLNYNuuiMiCR1rAIF4IDjGAQ"
+  "sig": "HvWVVm4RBlJxX9o6Dx0JJQNJedmPlXcxEGPGOm3MfYJb0NbsyHTrLfHkz-NZP_-1M4laXjyC34MFk6pZz-zrCg"
  }
 }
