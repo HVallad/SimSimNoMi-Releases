@@ -3,8 +3,8 @@
  "version": 1,
  "body": {
   "id": "opcg",
-  "published": "2026-11-22T01:19:55.146Z",
-  "commit": "a44f8b5d30dd70ffa096adfefe9bb5e48fd27f8c",
+  "published": "2026-11-22T02:06:11.009Z",
+  "commit": "a607e48294c9bb56ca24e47538e8ce349db257a9",
   "packs": [
    {
     "pack": "core",
@@ -27,6 +27,17 @@
     "cards": 0,
     "built": "2026-11-22T01:19:55.146Z",
     "app": "0.1.0-alpha.20"
+   },
+   {
+    "pack": "core",
+    "version": 4,
+    "file": "core/4.pack.json",
+    "size": 208460,
+    "sha256": "54af4e5a424e62d51aee6a1d81f1ce78570f40a7f35b4c4dc7f6a00a4cc8cb1c",
+    "part": "39c4743b2c8aa90caa10bbc38addb6c5f06f5bb7bf090ca37ee5303c11903575",
+    "cards": 0,
+    "built": "2026-11-22T02:06:11.009Z",
+    "app": "0.1.0-alpha.21"
    },
    {
     "pack": "EB01",
@@ -247,6 +258,17 @@
     "cards": 119,
     "built": "2026-11-07T15:48:25.844Z",
     "app": "0.1.0-alpha.14"
+   },
+   {
+    "pack": "OP15",
+    "version": 2,
+    "file": "OP15/2.pack.json",
+    "size": 92094,
+    "sha256": "37ce4a551be12af690512faaed9d54087b250d057608c77c8fa3073c34eb2bc7",
+    "part": "827ee064ff271541a98cc56cbde1b9affb21c3b56bd4812bfadb12229b6f89c4",
+    "cards": 119,
+    "built": "2026-11-22T02:06:11.009Z",
+    "app": "0.1.0-alpha.21"
    },
    {
     "pack": "OP16",
@@ -738,6 +760,6 @@
  "signature": {
   "alg": "Ed25519",
   "key": "cd0FErtBr_A_7EySCTwDrH7PCz6aM4GZHzZ9m-qjjH8",
-  "sig": "FG16P27xnCiF1VKnB_jsuPPs7eNYjbtbruo-P8V1825AoF0T3SpRDhUYkob2IA6PkL35jTGgvw346lE3jOh2DA"
+  "sig": "8pJsGOfE7n-yZH7hd4zd4WU8wFZA2B5A1iIwHErZxJUOm3-6bLt5H1psFa1UQksLNYNuuiMiCR1rAIF4IDjGAQ"
  }
 }
