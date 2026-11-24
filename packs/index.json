@@ -3,8 +3,8 @@
  "version": 1,
  "body": {
   "id": "opcg",
-  "published": "2026-11-22T10:35:40.117Z",
-  "commit": "1747869f258dda01a4eddb6cb6f56b5d09438a86",
+  "published": "2026-11-24T17:13:41.529Z",
+  "commit": "f83350f4fe3407f04c59c025ad8d6895daa3bedf",
   "packs": [
    {
     "pack": "core",
@@ -272,13 +272,13 @@
    },
    {
     "pack": "OP08",
-    "version": 2,
-    "file": "OP08/2.pack.json",
-    "size": 81830,
-    "sha256": "0e9c093ebbf821deea774571dfa0a10539227986bfb3b55a2f9f3c69ffb50429",
-    "part": "63f7ca8174ac03ebbf96a02ecd598bbeb68d87482128f4007dd60090589396f2",
+    "version": 3,
+    "file": "OP08/3.pack.json",
+    "size": 81911,
+    "sha256": "d5aa44f918330049885dbab6b76851cfcd75c8241aee75fdf2ff74f099f443e5",
+    "part": "f1a51e5b8b6777133d6f3eae36a48eb23442e64a0ef09a104089c9574770356a",
     "cards": 119,
-    "built": "2026-11-22T10:35:40.117Z",
+    "built": "2026-11-24T17:13:41.529Z",
     "app": "0.1.0-alpha.22"
    },
    {
@@ -969,6 +969,6 @@
  "signature": {
   "alg": "Ed25519",
   "key": "cd0FErtBr_A_7EySCTwDrH7PCz6aM4GZHzZ9m-qjjH8",
-  "sig": "HvWVVm4RBlJxX9o6Dx0JJQNJedmPlXcxEGPGOm3MfYJb0NbsyHTrLfHkz-NZP_-1M4laXjyC34MFk6pZz-zrCg"
+  "sig": "pTm8L4SXm97Uv83waKWODFlYYMMyxJ8iLWEbyQ90AaL009aDtx7BhWLj29Hf60qRNI-pary1-MYkgO8mpfBiAQ"
  }
 }
