@@ -3,8 +3,8 @@
  "version": 1,
  "body": {
   "id": "opcg",
-  "published": "2026-11-24T17:13:41.529Z",
-  "commit": "f83350f4fe3407f04c59c025ad8d6895daa3bedf",
+  "published": "2026-11-28T01:53:54.213Z",
+  "commit": "f2c8713ee784d4de1c3b96359481bfa402bbdb07",
   "packs": [
    {
     "pack": "core",
@@ -412,6 +412,17 @@
     "cards": 119,
     "built": "2026-11-22T10:35:40.117Z",
     "app": "0.1.0-alpha.22"
+   },
+   {
+    "pack": "OP15",
+    "version": 4,
+    "file": "OP15/4.pack.json",
+    "size": 92508,
+    "sha256": "612c7bc038dad7838b9f60e21bf6ad049324a8588d8d9e2239f644545518e497",
+    "part": "26f60d69c16739c42e369a707ae8b775d843e07b8f63baaa570736422a3cb469",
+    "cards": 119,
+    "built": "2026-11-28T01:53:54.213Z",
+    "app": "0.1.0-alpha.26"
    },
    {
     "pack": "OP16",
@@ -969,6 +980,6 @@
  "signature": {
   "alg": "Ed25519",
   "key": "cd0FErtBr_A_7EySCTwDrH7PCz6aM4GZHzZ9m-qjjH8",
-  "sig": "pTm8L4SXm97Uv83waKWODFlYYMMyxJ8iLWEbyQ90AaL009aDtx7BhWLj29Hf60qRNI-pary1-MYkgO8mpfBiAQ"
+  "sig": "i8MTlTRX0yOZYi7Cp89c4d-5zlQ9fvBMd-3GNvFChnUxjyDGUuHQYFDRlPmPi1EInAYyAAUp70BANTVE2WvIBg"
  }
 }
